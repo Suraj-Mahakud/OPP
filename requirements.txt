@@ -1,0 +1,11 @@
+asgiref
+cffi
+cryptography
+Django==3.2.13
+django-rest-knox
+djangorestframework==3.13.1
+pycparser
+pytz
+sqlparse
+typing_extensions
+django-cors-headers
